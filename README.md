@@ -1,4 +1,6 @@
-A basic template for highschool students to get started with game development using the phaser game engine.
+A basic template to get started with game development using the phaser game engine.
+
+Thanks to Luis Zuno for the assets http://www.ansimuz.com
 
 Important: This template requires node.js to be installed on your computer. If you have not done so, please go to https://nodejs.org/ and downloaded the newest LTS version of node.
 
